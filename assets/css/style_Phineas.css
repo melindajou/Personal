@@ -1,0 +1,63 @@
+header img {
+    height: 160px;
+    width: 400px;
+    vertical-align: middle;
+}
+
+header {
+    font-family: Copperplate, fantasy;
+    color: red;
+    font-size: 5em;
+    vertical-align: middle;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #e95e08;
+}
+
+body{
+    background-color:sandybrown;
+}
+
+.history {
+    margin-left: 3%;
+    
+}
+
+.movies {
+    margin-left: 3%;
+}
+
+.video {
+    margin-left: 3%;
+}
+
+.tableau{
+    margin-left: 3%;
+    width: 100px;
+}
+
